@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cryptodashboard-dev-140509-authRole",
+      "UnauthRoleArn": "arn:aws:iam::721198526580:role/amplify-cryptodashboard-dev-140509-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::721198526580:role/amplify-cryptodashboard-dev-140509-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-cryptodashboard-dev-140509-deployment",
+      "UnauthRoleName": "amplify-cryptodashboard-dev-140509-unauthRole",
+      "StackName": "amplify-cryptodashboard-dev-140509",
+      "StackId": "arn:aws:cloudformation:eu-north-1:721198526580:stack/amplify-cryptodashboard-dev-140509/4fce6ce0-b7fd-11ec-994c-06fd2474489e",
+      "AmplifyAppId": "d2eqibs37o63y2"
+    }
+  }
+}
